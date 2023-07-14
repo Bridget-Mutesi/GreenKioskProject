@@ -41,8 +41,11 @@ INSTALLED_APPS = [
     "orders",
     "payment",
     "user",
-    "mama_mboga",
+    # "vendor",
     "notification",
+    # "shipping",
+    "delivery",
+    "ratings",
     
 ]
 
